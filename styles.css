@@ -1,7 +1,7 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     color: #333;
-    font-size: larger;
+    font-size: large;
   
     body {
     margin: 0;
@@ -88,7 +88,7 @@ footer {
     bottom: 0;
 }
 p {
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
 
 a {
@@ -111,6 +111,6 @@ main a[href^="mailto:"] {
 }
 h2 {
     color: #000000;
-    font-size: 2.5em;
+    font-size: 1.5em;
     border-bottom: 2px solid #000000;
 }
