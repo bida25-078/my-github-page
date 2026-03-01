@@ -1,7 +1,7 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     color: #333;
-    background-color: #84827e;
+  
     body {
     margin: 0;
     padding: 0;
@@ -23,6 +23,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
+    z-index: -1;
     background-image: url("data:image/svg+xml,\
 <svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'>\
 <text x='20' y='40' font-size='30'>🍂</text>\
@@ -32,13 +33,14 @@ body::before {
     background-repeat: repeat;
     opacity: 0.08; /* makes it soft and subtle */
     pointer-events: none;
-}
+    
     background-size: cover;
     background-position: center;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
+
 header {
     background-color: #2f5d50;
     color: white;
