@@ -1,8 +1,8 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     color: #333;
-    background-color: #848380;
-    background-image: url(Screenshot\ 2026-03-01\ at\ 16.58.03.png);
+    background-color: #84827e;
+    
     background-size: cover;
     background-position: center;
     margin: 0;
@@ -25,7 +25,7 @@ nav a {
     
     color: white;
     text-decoration: underline;
-    margin: 0 10px;
+    margin: 0px;
 }
 nav a:hover {
     text-decoration: underline;
