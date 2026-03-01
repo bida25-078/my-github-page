@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #7a6c6c;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #176519;
+    color: rgb(87, 78, 78);
     padding: 20px;
     text-align: center;
 }
@@ -21,7 +21,7 @@ header h1 {
 nav a {
     
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
     margin: 0 10px;
 }
 nav a:hover {
@@ -42,7 +42,7 @@ main img {
 }
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(87, 69, 69);
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -54,7 +54,7 @@ p {
 }
 
 a {
-    color: #4CAF50;
+    color: #123013;
     text-decoration: none;
 }
 
@@ -68,6 +68,6 @@ img {
 }
 
 main a[href^="mailto:"] {
-    color: #ff5722;
+    color: #5f4c46;
     font-weight: bold;
 }
