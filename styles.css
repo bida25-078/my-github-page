@@ -31,7 +31,7 @@ body::before {
 <text x='60' y='170' font-size='28'>🍁</text>\
 </svg>");
     background-repeat: repeat;
-    opacity: 0.08; /* makes it soft and subtle */
+    opacity: 0.5;
     pointer-events: none;
     
     background-size: cover;
@@ -94,7 +94,7 @@ footer {
     background-color: #333;
     color: rgb(87, 69, 69);
     text-align: center;
-    padding: 10px 0;
+    padding: 8px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
