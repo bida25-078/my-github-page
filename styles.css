@@ -1,15 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     color: #333;
-    background-color: #7a6c6c;
+    background-color: #f8f5f0;
+    background-image: url('img_9892.jpg');
+    background-size: cover;
+    background-position: center;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header {
-    background-color: #176519;
-    color: rgb(87, 78, 78);
-    padding: 20px;
+    background-color: #2f5d50;
+    color: white;
+    padding: 20px 0;
     text-align: center;
 }
 
